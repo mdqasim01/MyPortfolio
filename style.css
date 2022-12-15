@@ -88,7 +88,7 @@ h4 {
   width: 380px;
   max-width: 100%;
   position: relative;
-   background-color: whitesmoke;
+   
 }
 .input-section form input:first-child {
   display: inline-block;
@@ -121,7 +121,7 @@ h4 {
 .about {
   width: 100%;
   padding: 100px 0px;
-/*    background-color: whitesmoke; */
+   background-color: whitesmoke;
 }
 .about img {
   height: auto;
